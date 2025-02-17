@@ -1,6 +1,0 @@
-User-Agent: *
-Allow: /index.html
-
-Sitemap: https://medan-talk.github.io/news/sitemaps.xml
-
-
